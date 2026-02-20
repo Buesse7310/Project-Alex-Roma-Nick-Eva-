@@ -1,4 +1,4 @@
-# Project-Alex-Roma-Nick-Eva-
+# Project-Dollar-Doodle
 
 Group project CPT-200
 
