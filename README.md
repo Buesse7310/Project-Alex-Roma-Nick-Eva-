@@ -4,7 +4,9 @@
 A modern web application to track expenses, visualize spending habits, and achieve financial goals.
 
 
-Features
+Features:
+
+
 Log expenses by category.
 View clean graphs and spending patterns.
 Scan receipts.
@@ -12,9 +14,12 @@ Smart suggestions based on habits.
 
 
 Modules:
-Frontend:	Dashboard, Add Expense, Graphs, Receipt Scanner.
-Backend:	Authentication, Expense Processing.
-Database:	Users & Expenses Tables.
+Frontend:	
+Dashboard, Add Expense, Graphs, Receipt Scanner.
+Backend:	
+Authentication, Expense Processing.
+Database:
+Users & Expenses Tables.
 
 
 Timeline
